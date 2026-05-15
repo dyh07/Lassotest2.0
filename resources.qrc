@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>frontend/index.html</file>
+        <file>frontend/app.jsx</file>
+        <file>frontend/styles.css</file>
+    </qresource>
+</RCC>
